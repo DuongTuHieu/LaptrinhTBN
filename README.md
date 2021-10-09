@@ -8,3 +8,5 @@ Bài 3: https://www.tinkercad.com/things/eiVKua7qNLV
 Bài 4: https://www.tinkercad.com/things/hUe02AkQcCH 
 
 Bài 5: https://www.tinkercad.com/things/9m5h3xmUYRE
+
+Bài 6: https://www.tinkercad.com/things/gWCVBrq8Q4L
