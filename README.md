@@ -15,4 +15,4 @@ Bài 7: https://www.tinkercad.com/things/73eeGdUvulp
 
 Bài 8: https://www.tinkercad.com/things/7pFCK7s93PX
 
-Bài 9: NULL( không tìm thấy DTH11 trên tinkercad)
+Bài 9: NULL( không tìm thấy DHT11 trên tinkercad)
