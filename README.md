@@ -10,3 +10,9 @@ Bài 4: https://www.tinkercad.com/things/hUe02AkQcCH
 Bài 5: https://www.tinkercad.com/things/9m5h3xmUYRE
 
 Bài 6: https://www.tinkercad.com/things/gWCVBrq8Q4L
+
+Bài 7: https://www.tinkercad.com/things/73eeGdUvulp
+
+Bài 8: https://www.tinkercad.com/things/7pFCK7s93PX
+
+Bài 9: NULL( không tìm thấy DHT11 trên tinkercad)
