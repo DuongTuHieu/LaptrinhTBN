@@ -18,6 +18,7 @@ Bài 8: https://www.tinkercad.com/things/7pFCK7s93PX
 Bài 9: NULL( không tìm thấy DHT11 trên tinkercad)
 
    Bài Thi giữa kỳ
+   
 Bài 1: https://www.tinkercad.com/things/6gv3mHw4KX5
 
 Bài 2a: https://www.tinkercad.com/things/gWCVBrq8Q4L
