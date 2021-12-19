@@ -85,10 +85,6 @@ void dunglai() {
   digitalWrite(in2, LOW);
   digitalWrite(in3, LOW);
   digitalWrite(in4, LOW);
-  digitalWrite(led1, LOW);
-  digitalWrite(led2, LOW);
-  digitalWrite(led3, LOW);
-  digitalWrite(led4, LOW);
   // đoạn code này mình cho các chân ở mức thấp thì cả 4 động cơ đều dừng
 }
 void dilui() {
@@ -96,10 +92,7 @@ void dilui() {
   digitalWrite(in2, LOW);
   digitalWrite(in3, HIGH);
   digitalWrite(in4, LOW);
-  digitalWrite(led1, HIGH);
-  digitalWrite(led2, LOW);
-  digitalWrite(led3, HIGH);
-  digitalWrite(led4, LOW);
+
 
 }
 void ditien() {
@@ -107,30 +100,19 @@ void ditien() {
   digitalWrite(in2, HIGH);    //ngược lại với chân tiến thì chân in2 và in4 ở mức cao thì sẽ đi lùi
   digitalWrite(in3, LOW);
   digitalWrite(in4, HIGH);
-   digitalWrite(led1, LOW);
-  digitalWrite(led2, HIGH);
-  digitalWrite(led3, LOW);
-  digitalWrite(led4, HIGH);
 }
 void quaytrai() {
   digitalWrite(in1, HIGH);
   digitalWrite(in2, LOW);
   digitalWrite(in3, LOW);
   digitalWrite(in4, HIGH);    // động cơ bên trái sẽ quay ngược về sau  và động cơ bên phải tiến thì sẽ quay qua trái
-   digitalWrite(led1, HIGH);
-  digitalWrite(led2, LOW);
-  digitalWrite(led3, LOW);
-  digitalWrite(led4, HIGH);
+
 }
 void quayphai() {
   digitalWrite(in1, LOW);
   digitalWrite(in2, HIGH);
   digitalWrite(in3, HIGH);   // động cơ bên phải sẽ quay ngược về sau và động cơ bên trái tiến thì sẽ quay qua trái
   digitalWrite(in4, LOW);
-  digitalWrite(led1, LOW);
-  digitalWrite(led2, HIGH);
-  digitalWrite(led3, HIGH);
-  digitalWrite(led4, LOW);
 
 }
 
